@@ -37,7 +37,7 @@ pip install numpy pandas matplotlib
 
 ### Running the Simulation
 ```bash
-python market_maker_simulation.py
+python market_maker3.py
 ```
 
 ## How It Works
