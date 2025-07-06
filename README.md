@@ -154,17 +154,7 @@ market_maker_simulation.py
     └── Performance monitoring
 ```
 
-## Learning Outcomes
-
-After running this simulation, you'll understand:
-
-- How market makers provide liquidity and earn spreads
-- The relationship between volatility and bid-ask spreads
-- Why inventory management is crucial for market makers
-- How electronic order books function in modern markets
-- The mathematical models underlying quantitative trading
-
-## Extending the Simulation
+## Planned future extension of the Simulation
 
 Consider adding:
 - **Multiple Market Makers**: Competition between liquidity providers
@@ -173,17 +163,4 @@ Consider adding:
 - **Different Assets**: Varying volatility and spread characteristics
 - **Transaction Costs**: More realistic profit calculations
 
-## Disclaimer
 
-This simulation is for educational purposes only. Real market making involves significant additional complexities including:
-- Regulatory requirements
-- Technology infrastructure
-- Risk management systems
-- Market data feeds
-- Execution algorithms
-
-The simplified models here demonstrate core concepts but should not be used for actual trading decisions.
-
----
-
-*This project demonstrates the fascinating intersection of mathematics, finance, and technology that powers modern financial markets.*
